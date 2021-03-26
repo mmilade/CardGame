@@ -38,7 +38,7 @@ public class Snap extends CardGame {
 
     public void setGameOver() {
         isGameOver = true;
-        System.out.println("Game Over " + player + " is the winner!");
+        System.out.println("Game Over - " + player + " is the winner!");
     }
 
 
